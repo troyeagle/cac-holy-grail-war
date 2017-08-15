@@ -4,5 +4,5 @@
 
 [玩家规则书](./rulebook)
 
-[第一次圣杯战争实录](./history/20170805-FirstWar)
+[第一次圣杯战争实录](./history/20170805-FirstWar)   
 [第二次圣杯战争实录（更新到第一章）](./history/20170812-SecondWar)
