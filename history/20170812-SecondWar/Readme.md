@@ -12,10 +12,10 @@
 | 玩家        | 职介           | 真名  |
 | :------------- | :-------------| :-----|
 | 离殇      | Saber | 莫德雷德 |
-| ？ | Archer  | ？ |
-| ？ | Lancer | ？ |
-| ？ | Rider | ？ |
-| ？ | Caster | ？ |
-| ？ | Assassin | ？ |
+| 枫酱 | Archer  | ？ |
+| 小古 | Lancer | ？ |
+| 折原 | Rider | 伊斯坎达尔 |
+| 鱼鱼台 | Caster | ？ |
+| 剑道 | Assassin | ？ |
 | 拉文 | Berserker | 吕布 |
-| ？ | ？ | ？ |
+| ？ | Ruler | 贞德 |
