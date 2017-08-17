@@ -15,7 +15,7 @@
 | 枫酱 | Archer  | ？ |
 | 小古 | Lancer | ？ |
 | 折原 | Rider | 伊斯坎达尔 |
-| 鱼鱼台 | Caster | ？ |
+| 鱼鱼台 | Caster | 列奥纳多·达·芬奇 |
 | 剑道 | Assassin | ？ |
 | 拉文 | Berserker | 吕布 |
-| ？ | Ruler | 贞德 |
+| ？ | Ruler？ | 贞德？ |
