@@ -8,6 +8,7 @@
 
 [第一章-叛逆的骑士](Chpt1/1-Traitor_Knight.md)  
 [第二章-孤独的战士](Chpt2/2-Solitary-Soldier.md)
+[第三章-秩序的建立](Chpt3/3-The-Establish-of-Order.md)
 
 | 玩家        | 职介           | 真名  |
 | :------------- | :-------------| :-----|
