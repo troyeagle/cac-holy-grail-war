@@ -7,3 +7,9 @@
 [第一次圣杯战争实录](./history/20170805-FirstWar)   
 
 [第二次圣杯战争实录（更新到第三章）](./history/20170812-SecondWar)
+
+[KP 辅助地图系统](https://github.com/zhshr/fate-assistant-typed)
+
+[Discord Bot](https://github.com/frankhjwx/simple-discord-bot)
+
+[制作组招募贴](./recruiting.md)
