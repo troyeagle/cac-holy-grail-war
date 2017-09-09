@@ -7,10 +7,10 @@
 英灵池制作：天目、雾雨、veda
 
 [序章](./Prologue.md)
-[第一章-叛逆的骑士](Chpt1/1-Traitor_Knight.md)  
-[第二章-孤独的战士](Chpt2/2-Solitary-Soldier.md)
-[第三章-秩序的建立](Chpt3/3-The-Establish-of-Order.md)
-[第四章-脆弱的联盟](Chpt4/4-Vulnerable-Ally.md)
+[第一章-叛逆的骑士](Chpt1/1-Traitor_Knight.md)   
+[第二章-孤独的战士](Chpt2/2-Solitary-Soldier.md)  
+[第三章-秩序的建立](Chpt3/3-The-Establish-of-Order.md)  
+[第四章-脆弱的联盟](Chpt4/4-Vulnerable-Ally.md)   
 
 | 玩家        | 职介           | 真名  |
 | :------------- | :-------------| :-----|
